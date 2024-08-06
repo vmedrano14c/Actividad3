@@ -173,8 +173,6 @@ public class Cuadratica extends javax.swing.JFrame {
         if (solucion >= 0);{
         	txtSolpo.setText(String.valueOf(solucion));
         }
-        
-   
     }//GEN-LAST:event_btnSolpActionPerformed
 
     private void btnSolnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSolnActionPerformed
